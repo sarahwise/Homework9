@@ -1,0 +1,23 @@
+{
+  "name": "homework9",
+  "version": "1.0.0",
+  "description": "readMe Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahwise/Homework9.git"
+  },
+  "keywords": [
+    "hw9",
+    "readme"
+  ],
+  "author": "Sarah Wise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahwise/Homework9/issues"
+  },
+  "homepage": "https://github.com/sarahwise/Homework9#readme"
+}
